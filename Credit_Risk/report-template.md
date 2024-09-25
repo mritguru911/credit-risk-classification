@@ -17,11 +17,8 @@ Machine Learning Process Steps
 
 ## Results
 
-Using bulleted lists, describe the accuracy scores and the precision and recall scores of all machine learning models.
+Description of Logistic Regression Model Accuracy
 
-* Machine Learning Model 1:
-    * Description of Model 1 Accuracy, Precision, and Recall scores.
-Description of Logistic Regression Model Accuracy,
 Precision Scores
 - Healthy Loans (Label '0'): The precision score is a perfect 100%.
 - High-Risk Loans (Label '1'): The precision score stands at 87%.
